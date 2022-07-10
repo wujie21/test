@@ -1,3 +1,4 @@
+/* 分别暴露 */
 export let obj={
   name:"wujie",
   age:17
